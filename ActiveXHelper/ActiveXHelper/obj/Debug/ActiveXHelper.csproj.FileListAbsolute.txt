@@ -1,0 +1,5 @@
+F:\skyDrive\tmp\Lib\开发中\基础库\ActivexLib\ActiveXHelper\ActiveXHelper\bin\Debug\ActiveXHelper.dll
+F:\skyDrive\tmp\Lib\开发中\基础库\ActivexLib\ActiveXHelper\ActiveXHelper\bin\Debug\ActiveXHelper.pdb
+F:\skyDrive\tmp\Lib\开发中\基础库\ActivexLib\ActiveXHelper\ActiveXHelper\obj\Debug\ActiveXHelper.dll
+F:\skyDrive\tmp\Lib\开发中\基础库\ActivexLib\ActiveXHelper\ActiveXHelper\obj\Debug\ActiveXHelper.pdb
+F:\skyDrive\tmp\Lib\开发中\基础库\ActivexLib\ActiveXHelper\ActiveXHelper\bin\Debug\ActiveXHelper.tlb
